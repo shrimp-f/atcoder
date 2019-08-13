@@ -1,0 +1,3 @@
+g++ -std=c++14 -Wall -o A A.cpp
+
+g++ -std=c++14 -Wall -o C C.cpp
