@@ -1,3 +1,11 @@
 g++ -std=c++14 -Wall -o A A.cpp
 
+g++ -std=c++14 -Wall -o B B.cpp
+
 g++ -std=c++14 -Wall -o C C.cpp
+
+
+やること
+・木の理解
+https://atcoder.jp/contests/abc138/submissions/7011118
+・深さ優先探索　BFS
